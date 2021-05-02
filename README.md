@@ -2,7 +2,7 @@
 
 #####
 해당 자료는 소셜 VR 플랫폼에서 온라인 수업을 할 때 사용할 수 있는
-"Effective 하고 Usable"한 온라인 플랫폼과, 앉아서 사용할 수 있는 VR 디바이스를 고안한 것입니다.
+"Effective 하고 Usable"한 온라인 플랫폼과, 앉아서 사용할 수 있는 VR 디바이스를 고안한 것입니다.\n
 (Discover -> Define -> Develop -> Deliver)
 
 < 논문 요약 : 제품 디자인 및 사용성 검증 >
