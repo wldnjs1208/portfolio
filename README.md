@@ -1,9 +1,10 @@
 # portfolio
 
-#####
+
 해당 자료는 소셜 VR 플랫폼에서 온라인 수업을 할 때 사용할 수 있는
-"Effective 하고 Usable"한 온라인 플랫폼과, 앉아서 사용할 수 있는 VR 디바이스를 고안한 것입니다.\n
+"Effective 하고 Usable"한 온라인 플랫폼과, 앉아서 사용할 수 있는 VR 디바이스를 고안한 것입니다.
 (Discover -> Define -> Develop -> Deliver)
+
 
 < 논문 요약 : 제품 디자인 및 사용성 검증 >
 온라인이라는 환경의 특성상 시공간의 제약이 없다는 장점이 있으나
@@ -13,5 +14,6 @@
 "앉아서 사용할 수 있는 PC VR" 디바이스를 디자인 했고,
 Social VR Platform인 "Mozilla Hubs"에서 수업을 할 때의 사용성과 단기적 학습 효과를 분석했습니다.
 결과적으로 그냥 데스크탑을 볼 때나 HMD를 쓰고 수업을 듣는 것에 비해 긍정적이라는 평가를 내릴 수 있었습니다.
+
 
 < Discover -> Define -> Develop -> Deliver 요약 : 함께 사용할 플랫폼 기획 >
